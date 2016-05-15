@@ -1,6 +1,6 @@
-# amarskenderovic-week3!
+# amarskenderovic-week3
 
-[step 1 add item](https://cloud.githubusercontent.com/assets/18394877/15276387/08b679ec-1ae7-11e6-8bb7-a70c94839d41.jpg)
+![step 1 add item](https://cloud.githubusercontent.com/assets/18394877/15276387/08b679ec-1ae7-11e6-8bb7-a70c94839d41.jpg)
 Step 1 - Add TODO
 
 ![step 2 long press](https://cloud.githubusercontent.com/assets/18394877/15276389/0c2f42ac-1ae7-11e6-8c6b-2549d5017658.jpg)
